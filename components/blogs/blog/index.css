@@ -1,0 +1,16 @@
+.row_style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.body-style {
+  width: 50em;
+  text-align: justify;
+  border: 1px solid black;
+  margin-top: 2em;
+}
+
+.button_style {
+  margin: 1em;
+}

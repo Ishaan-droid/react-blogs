@@ -1,0 +1,24 @@
+.content-style {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  width: 30rem;
+  height: 20rem;
+}
+
+.quote_color {
+  color: #1976d2;
+}
+
+.content {
+  font-size: 1.6em;
+  line-height: 1.5em;
+  text-align: justify;
+}
+
+.button-style {
+  display: flex;
+  justify-content: flex-end;
+}
